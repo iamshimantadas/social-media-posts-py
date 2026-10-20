@@ -175,4 +175,6 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
+featured_images/
+
 buffer_organizations_channels.json
