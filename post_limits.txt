@@ -1,0 +1,30 @@
+Each social network has their own guidelines on how much content to post. For example, Facebook recommends up to five posts per day, but 35 is really the upper limit they allow without negatively impacting the reach of your posts. The posting limits we have implemented, in accordance with each social network's guidelines, are shown in the table below. These limits _don't_ affect the [number of posts you can store in your queue](https://support.buffer.com/en-us/articles/how-many-posts-can-i-schedule-in-advance-Kmy2IEecqm) at any one time.
+
+| Social network | Posts per 24 hours                                                                                   |
+| :------------- | :--------------------------------------------------------------------------------------------------- |
+| Facebook       | 35                                                                                                   |
+| Instagram      | 50\*                                                                                                 |
+| X/Twitter      | 100 for verified X/Twitter accounts 50 for unverified X/Twitter accounts                             |
+| LinkedIn       | 50                                                                                                   |
+| Pinterest      | 25 for customers who verify their email on Buffer; 5 for customers who have not verified their email |
+| TikTok         | 25                                                                                                   |
+| Google         | 50                                                                                                   |
+| Start Page     | Unlimited                                                                                            |
+| YouTube Shorts | 10 for unverified users. Unlimited for verified users.                                               |
+| Mastodon       | 100                                                                                                  |
+| Threads        | 250                                                                                                  |
+| Bluesky        | 100                                                                                                  |
+| Substack       | 100                                                                                                  |
+
+:::info
+**Notes**
+
+* These limits are per 24-hour period, rather than per calendar day.
+
+* These limits only count posts sent through Buffer. Posts you publish natively on the social network itself (outside Buffer) are not included in your daily count.
+
+* \*Instagram daily limit includes posts, reels, and stories sent within a 24-hour period.
+:::
+
+
+source: https://support.buffer.com/articles/daily-posting-limits-kJ0JtpsdvD
